@@ -1,0 +1,8 @@
+{
+  "name": "Nabraawy Study",
+  "description": "Smart bilingual Arabic/English AI study studio with lesson tutor, exam & recitation trainer, mistake bank, flashcards, and adaptive study scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
